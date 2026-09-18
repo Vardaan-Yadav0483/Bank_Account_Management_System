@@ -1,7 +1,7 @@
 ﻿# Bank Account Management System (BAMS)
 
-**Subject:** Programming in Java
-**Student Name:** Vardaan Yadav 
+**Subject:** Programming in Java  
+**Student Name:** Vardaan Yadav  
 **Institution:** VIT, School of Computer Science and Engineering  
 
 ---
