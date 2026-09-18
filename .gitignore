@@ -1,0 +1,20 @@
+# Compiled Java class files
+bin/
+
+# SQLite database file - auto-created on first run
+data/*.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.class
+
+# Generated statements and logs
+statements/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
